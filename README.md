@@ -1,34 +1,28 @@
-<h1 align="center">Hey, I'm Guilherme 👋</h1>
-<p align="center">
-  <i>High schooler building things at the intersection of physics, math, and machine learning.</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-6b8f71?style=flat-square" />
-  <img src="https://img.shields.io/badge/Field-Materials%20Science-a6b98c?style=flat-square" />
-  <img src="https://img.shields.io/badge/Based%20in-Manaus%2C%20Brazil-d9cbb3?style=flat-square" />
+<h1>Oi, eu sou o Guilherme 👋</h1>
+<p>
+  <i>Estudante do ensino médio construindo projetos na interseção entre física, matemática e machine learning.</i>
 </p>
 
 ---
 
-### 🔬 Currently building — Projeto Thermo
+### Projetos atuais
 
-A research project using machine learning to explore whether rare-earth elements are actually necessary for high-temperature superconductors — and identifying promising alternative candidates.
+Um projeto de pesquisa que usa machine learning para investigar se elementos de terras raras são realmente necessários para supercondutores de alta temperatura crítica — e para identificar materiais candidatos alternativos promissores.
 
-- **Approach:** XGBoost + Random Forest models on the SuperCon database, with SHAP analysis for interpretability and an ablation study to test feature importance
-- **Top candidate found:** CuCrO₂, a delafossite-structured material
-- **Live demo:** an interactive site with a Meissner effect simulation and SHAP explorer → [projetothermo.netlify.app](https://projetothermo.netlify.app)
-- **Code:** [github.com/projetothermocmm-a11y/python-code](https://github.com/projetothermocmm-a11y/python-code)
-- **Status:** Qualified for FEBIC 2026, submitted to FEBRACE, in contact with UFBA to explore synthesizing model-generated candidate materials
+- **Abordagem:** modelos XGBoost + Random Forest sobre a base de dados SuperCon, com análise SHAP para interpretabilidade e um estudo de ablação para testar a importância das features
+- **Melhor candidato encontrado:** CuCrO₂, um material de estrutura delafossita
+- **Demo ao vivo:** um site interativo com simulação do efeito Meissner e explorador de SHAP → [projetothermo.netlify.app](https://projetothermo.netlify.app)
+- **Código:** [github.com/projetothermocmm-a11y/python-code](https://github.com/projetothermocmm-a11y/python-code)
+- **Status:** Classificado para a FEBIC 2026, inscrito na FEBRACE, em contato com a UFBA para explorar a síntese de materiais candidatos gerados pelo modelo
 
-### 🧠 Other things I'm involved in
+### 🧠 Outras coisas em que estou envolvido
 
-- Member of my school's **OBR** (Olimpíada Brasileira de Robótica) club
-- Volunteer **peer tutor**
-- Competitor in national olympiads: **OBMEP** (silver/bronze), **OBA**, **ONC**, **OIMSF**, and **Canguru** (golds)
-- Honorable Mention at **XIII MUNdoCMM**
+- Membro do clube de **OBR** (Olimpíada Brasileira de Robótica) da minha escola
+- Monitor voluntário (**peer tutoring**)
+- Competidor em olimpíadas nacionais: **OBMEP** (prata/bronze), **OBA**, **ONC**, **OIMSF** e **Canguru** (ouros)
+- Menção Honrosa no **XIII MUNdoCMM**
 
-### 🛠️ Tools I work with
+### 🛠️ Ferramentas que uso
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -38,12 +32,12 @@ A research project using machine learning to explore whether rare-earth elements
   <img src="https://img.shields.io/badge/VESTA-crystallography-8a8a8a?style=flat-square" />
 </p>
 
-### 📫 Find me here
+### 📫 Onde me encontrar
 
 <p>
-  <a href="https://projetothermo.netlify.app"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=netlify&logoColor=white" /></a>
-  <!-- Add your Instagram/LinkedIn/email badges here, e.g.: -->
-  <!-- <a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a> -->
+  <a href="https://projetothermo.netlify.app"><img src="https://img.shields.io/badge/Site-000000?style=flat-square&logo=netlify&logoColor=white" /></a>
+  <!-- Adicione aqui seus badges de Instagram/LinkedIn/e-mail, por exemplo: -->
+  <!-- <a href="https://instagram.com/SEU_USUARIO"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a> -->
 </p>
 
 ---

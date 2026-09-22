@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Junior 👋</h1>
+<h1 align="center">Hey, I'm Guilherme 👋</h1>
 <p align="center">
   <i>High schooler building things at the intersection of physics, math, and machine learning.</i>
 </p>

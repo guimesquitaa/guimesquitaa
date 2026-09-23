@@ -1,11 +1,8 @@
 <h1>Oi, eu sou o Guilherme 👋</h1>
-<p>
-  <i>Estudante do ensino médio construindo projetos na interseção entre física, matemática e machine learning.</i>
-</p>
 
 ---
 
-### Projetos atuais
+### Projeto atual
 
 Um projeto de pesquisa que usa machine learning para investigar se elementos de terras raras são realmente necessários para supercondutores de alta temperatura crítica — e para identificar materiais candidatos alternativos promissores.
 
@@ -30,6 +27,13 @@ Um projeto de pesquisa que usa machine learning para investigar se elementos de 
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/VESTA-crystallography-8a8a8a?style=flat-square" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/LEGO%20Mindstorms-D01012?style=flat-square&logo=lego&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scratch-4D97FF?style=flat-square&logo=scratch&logoColor=white" />
 </p>
 
 ### 📫 Onde me encontrar
@@ -39,7 +43,3 @@ Um projeto de pesquisa que usa machine learning para investigar se elementos de 
   <!-- Adicione aqui seus badges de Instagram/LinkedIn/e-mail, por exemplo: -->
   <!-- <a href="https://instagram.com/SEU_USUARIO"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a> -->
 </p>
-
----
-
-<p align="center"><i>Always learning, always building.</i></p>
